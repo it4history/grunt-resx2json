@@ -3,12 +3,12 @@
 > Converts a set of localization files in the resx file format to a set of JSON dictionaries
 
 ## Getting Started
-This plugin requires Grunt `~0.4.0`
+This plugin requires Grunt `>=0.4.0`
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
 ```shell
-npm install git+https://github.com/jrnt30/grunt-resx2json.git --save-dev
+npm install git+https://github.com/it4history/grunt-resx2json.git --save-dev
 ```
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
